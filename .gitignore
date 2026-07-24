@@ -1,0 +1,20 @@
+# C++ Build Outputs
+*.o
+*.out
+*.exe
+build/
+
+# Java Bytecode & Metadata
+*.class
+*.jar
+.classpath
+.project
+
+# Python Caches
+__pycache__/
+*.pyc
+venv/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
